@@ -386,8 +386,8 @@ article .icon {
 #contact {
   display: flex;
   justify-content: center;
-  flex-direction: row;
-  /*height: 70vh;*/
+  flex-direction: column;
+  height: 70vh;
 }
 
 .contact-info-upper-container {
