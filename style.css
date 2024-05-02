@@ -330,8 +330,8 @@ section {
 
 .experience-details-container {
   display: flex;
-  justify-content: center;
-  flex-direction: column;
+  justify-content: relative;
+  flex-direction: row;
 }
 
 .article-container {
